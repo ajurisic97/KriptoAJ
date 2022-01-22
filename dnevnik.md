@@ -92,8 +92,10 @@ Pocetak | Kraj
 - Napravljene blage izmjene u backendu u portfolios kontroleru
 - Napravljene blage izmjene u frontendu za stranicu kupnje kriptovaluta
 
-## 189.9.2021.
+## 19.9.2021.
 Pocetak | Kraj
 ------- | ----
 01:25 | 03:48
+11:00 | 11:30
 - Napravljeno uređenje svih stranica osim panela administratora
+- Dovrseno uređenje panela administratora
